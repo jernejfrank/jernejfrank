@@ -5,7 +5,7 @@ I’m Jernej and besides finishing my PhD in quantum optics I build ML systems.
 - 🌱 I’m currently learning about parameter estimation theory for optical metrology and building a statistical boundaries simulation app (link to repo coming soon after I get the draft on arXiv)
 - 🔭 I enjoy contributing to open-source projects: currently core contributor for [Hamilton](https://hamilton.dagworks.io/en/latest/) and [Burr](https://burr.dagworks.io). I also wrote a [cool blog post](https://blog.dagworks.io/p/deep-dive-on-hamilton-decorators) about an interesting way [Hamilton](https://hamilton.dagworks.io/en/latest/) uses Python decorators.
 
-Happy to chat and solve problems together. Just shoot me an [email](contact@jfrank.co.uk)
+Happy to chat and solve problems together. Just shoot me an [email]<contact@jfrank.co.uk>.
 
 <!--
 **jernejfrank/jernejfrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
