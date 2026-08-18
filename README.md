@@ -3,7 +3,7 @@
 I’m Jernej and besides finishing my PhD in quantum optics I build ML systems.
 
 - 🌱 I’m currently learning about parameter estimation theory for optical metrology.
-- 🔭 I’m currently building a statistical boundaries simulation app (coming soon).
+- 🔭 I’m currently building a statistical boundaries simulation app.
 - 🔥 I enjoy contributing to open-source projects: core contributor for [Hamilton](https://hamilton.dagworks.io/en/latest/) and [Burr](https://burr.dagworks.io). I also wrote a [cool blog post](https://blog.dagworks.io/p/deep-dive-on-hamilton-decorators) about an interesting way [Hamilton](https://hamilton.dagworks.io/en/latest/) uses Python decorators.
 
 Happy to chat and solve problems together. The easiest way to get in touch is via [email](mailto:contact@jfrank.co.uk).
